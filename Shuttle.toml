@@ -1,5 +1,3 @@
-name = "leptos-starter"
+name = "shuttle-leptos-ssr-test2"
 
-assets = [
-    "target/site/*"
-]
+assets = ["target/site/*"]

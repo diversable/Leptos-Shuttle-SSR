@@ -1,5 +1,5 @@
 [package]
-name = "shuttle-leptos"
+name = "shuttle-leptos-ssr-test"
 version = "0.1.0"
 edition = "2021"
 
